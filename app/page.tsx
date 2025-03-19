@@ -76,13 +76,13 @@ export default function HomePage() {
           <div
             className="absolute inset-0 bg-cover bg-center"
             style={{
-              backgroundImage: "url('/hero-background.jpg')",
+              backgroundImage: "url('/images/homepage/hero-background.jpg')",
               backgroundSize: "cover",
               backgroundPosition: "center",
             }}
           >
             {/* Blue gradient overlay */}
-            <div className="absolute inset-0 bg-gradient-to-r from-blue-900/90 to-blue-700/80"></div>
+            <div className="absolute inset-0 bg-gradient-to-r from-blue-900/90 to-blue-700/80 bg-opacity-50"></div>
           </div>
 
           <div className="container relative px-4 md:px-6 z-10">
@@ -212,7 +212,7 @@ export default function HomePage() {
           <div
             className="absolute inset-0 bg-cover bg-center"
             style={{
-              backgroundImage: "url('/cta-background.jpg')",
+              backgroundImage: "url('/images/homepage/jobsearch.jpg')",
               backgroundSize: "cover",
               backgroundPosition: "center",
             }}
