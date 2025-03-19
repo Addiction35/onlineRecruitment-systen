@@ -4,7 +4,6 @@ import './globals.css'
 export const metadata: Metadata = {
   title: 'JobsConnect',
   description: 'An online recruitment system',
-
 }
 
 export default function RootLayout({
