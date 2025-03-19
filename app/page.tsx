@@ -89,7 +89,7 @@ export default function HomePage() {
             <div className="flex flex-col items-center justify-center space-y-6 text-center">
               <div className="space-y-3 max-w-3xl">
                 <h1 className="text-3xl font-bold tracking-tighter sm:text-4xl md:text-5xl lg:text-6xl text-white">
-                  Find Your Dream Job Today
+                  Find Your Dream Job in The Uk Today
                 </h1>
                 <p className="mx-auto max-w-[700px] text-white/80 md:text-xl">
                   Browse thousands of job listings and find the perfect match for your skills and experience.
